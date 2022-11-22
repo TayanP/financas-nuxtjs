@@ -18,7 +18,8 @@ $ yarn generate
 
 #Projetinho de Finanças para fins de estudo. NuxtJs é tão bom! .-.
 
-Iniciei com json-server para criar API REST fake e utilizando axios para obter os dados no Front-End. Ainda falta algumas funcionalidades..
+Iniciei com json-server para criar API REST FAKE e utilizei axios para obter os dados no Front-End. 
+Ainda falta algumas funcionalidades..
 
 #vuejs #vuex #nuxtjs #jest #axios #tailwindcss #dayjs #json-server
 
